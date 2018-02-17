@@ -10,5 +10,5 @@ p_loc = par.readline().split(',')
 c_loc = child.readline().split(',')
 
 dist_file = open("distance.txt",'w')
-dist_file.write(distance(p_loc[0],p_loc[1],c_loc[0],c_loc[1]))
+dist_file.write(distance(int(p_loc[0]),int(p_loc[1]),int(c_loc[0]),int(c_loc[1])))
 
