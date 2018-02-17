@@ -1,0 +1,4 @@
+Latitude: 38.989938
+Longitude: -76.936115
+Accuracy (m): 65.000000
+Timestamp: 2/17/18, 3:35:45 PM EST
