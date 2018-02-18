@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Location could not be determined right now. Try again later. Check if Wi-Fi is enabled.
+>>>>>>> 93810741002ab678a42710a5feb7af71055cf88c
