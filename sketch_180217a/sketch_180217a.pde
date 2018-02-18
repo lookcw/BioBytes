@@ -43,7 +43,7 @@ void draw() {
  } else {
  //If the text file has run out of numbers, then read the text file again in 5 seconds.
  counter = 0;
- delay(5000);
+ delay(1000);
  mySwitch=1;
  }
 }
