@@ -14,7 +14,7 @@ void setup(){
  
  //Open the serial port for communication with the Arduino
  //Make sure the COM port is correct
- myPort = new Serial(this, "COM8", 9600);
+ myPort = new Serial(this, "COM5", 9600);
  myPort.bufferUntil('\n');
 }
 
