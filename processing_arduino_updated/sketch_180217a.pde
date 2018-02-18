@@ -14,7 +14,7 @@ void setup(){
  
  //Open the serial port for communication with the Arduino
  //Make sure the COM port is correct
- myPort = new Serial(this, "COM8", 9600);
+ myPort = new Serial(this, "COM5", 9600);
  myPort.bufferUntil('\n');
 }
 
@@ -43,7 +43,7 @@ void draw() {
  } else {
  //If the text file has run out of numbers, then read the text file again in 5 seconds.
  counter = 0;
- delay(5000);
+ delay(1000);
  mySwitch=1;
  }
 }
