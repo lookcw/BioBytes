@@ -22,7 +22,7 @@ void draw() {
  if (mySwitch>0){
  /*The readData function can be found later in the code.
  This is the call to read a CSV file on the computer hard-drive. */
- readData("C:\\Users\\nad78\\OneDrive\\Documents\\arduino_test.txt");
+ readData("/Users/Anoop/Documents/BioBytes/arduino_test.txt");
  
  /*The following switch prevents continuous reading of the text file, until
  we are ready to read the file again. */

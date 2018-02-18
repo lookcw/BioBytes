@@ -1,1 +1,4 @@
-Location could not be determined right now. Try again later. Check if Wi-Fi is enabled.
+Latitude: 38.989949
+Longitude: -76.936156
+Accuracy (m): 65.000000
+Timestamp: 2/18/18, 11:15:19 AM EST
